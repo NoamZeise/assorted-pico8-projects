@@ -1,5 +1,5 @@
 # assorted-pico8-projects
-Source code for assorted pico8 projects i've made
+Source code for assorted pico8 projects i've made/am making, to sync between devices
 
 
 ## projects
